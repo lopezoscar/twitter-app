@@ -1,0 +1,15 @@
+{
+  "name": "twiiter-app",
+  "version": "1.0.0",
+  "description": "Una aplicacion para demostrar el uso de nodejs con aplicaciones real time",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oscar López",
+  "license": "GNU",
+  "dependencies": {
+    "node-tweet-stream": "^1.8.3",
+    "socket.io": "^1.3.7"
+  }
+}
